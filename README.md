@@ -22,7 +22,7 @@
 
 ### 其他内容：
 
-![在线浏览版](https://doc.codegang.top/others/mtf/#/%E8%B5%84%E6%BA%90/cheater_drugstore/README)
+[在线浏览版](https://doc.codegang.top/others/mtf/#/%E8%B5%84%E6%BA%90/cheater_drugstore/README)
 
 ## 在线药商价格对比表
 
