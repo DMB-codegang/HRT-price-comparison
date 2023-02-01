@@ -1,7 +1,5 @@
 # HRT-price-comparison
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
 > 她以许多美丽的方式影响了世界。  
 > 我们永远不会忘记她的善良精神，以及她让每一天都变得更加光明的所有方式。  
 > ——猫猫头仓库下的issue
